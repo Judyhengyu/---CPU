@@ -1,0 +1,18 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sim_1/new/sim_CPU_top.v,1687237293,verilog,,,,sim_CPU_top,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/ADD.v,1686156450,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/ALU.v,,ADD,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/ALU.v,1687419933,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/CPU_top.v,,ALU,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/CPU_top.v,1687331228,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/Control.v,,CPU_top,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/Control.v,1687419734,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/DataRAM.v,,Control,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/DataRAM.v,1686155827,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/Ext.v,,DataRAM,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/Ext.v,1687419605,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/MUX_PC.v,,Ext,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/MUX_PC.v,1687416033,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/Mux_32bit.v,,Mux_PC,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/Mux_32bit.v,1687331904,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/Mux_5bit.v,,Mux_32bit,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/Mux_5bit.v,1686156525,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/PC.v,,Mux_5bit,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/PC.v,1687415795,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/ROM.v,,PC,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/ROM.v,1687511756,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/Registers.v,,ROM,,,,,,,,
+C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sources_1/new/Registers.v,1687263497,verilog,,C:/Users/Judy/Desktop/单周期CPU/单周期CPU.srcs/sim_1/new/sim_CPU_top.v,,Registers,,,,,,,,
